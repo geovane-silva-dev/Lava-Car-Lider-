@@ -16,9 +16,9 @@ export const COMPANY_CONFIG = {
   sustainabilityStatement: "Estética Automotiva Sustentável do Sul do Brasil",
 
   // Contato & WhatsApp
-  // Número fornecido: +55 42 988445194
-  whatsappNumber: "5542988445194",
-  whatsappFormatted: "(42) 98844-5194",
+  // Número fornecido: +55 42 9844-5194
+  whatsappNumber: "554298445194",
+  whatsappFormatted: "(42) 9844-5194",
   defaultWhatsAppMessage: "Olá! Gostaria de saber mais sobre os serviços da Lava Car Líder.",
 
   // Endereço Oficial
