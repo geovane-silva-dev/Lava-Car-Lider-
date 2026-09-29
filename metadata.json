@@ -1,0 +1,6 @@
+{
+  "name": "Lava Car Líder - Estética Automotiva",
+  "description": "Lava Car Líder — estética automotiva para carros e caminhões em Marechal Mallet, Paraná. Experiência e padrão de qualidade desde 1992.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
